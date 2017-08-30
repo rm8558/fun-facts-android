@@ -1,0 +1,4 @@
+build/*
+.idea/*
+fun-facts-android.iml
+.gradle/*
